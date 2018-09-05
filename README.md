@@ -1,4 +1,2 @@
 # hello-world
-For learning how to make a repository and use this.
-
-
+For learning how to use a repository in the GitHub.
